@@ -1,0 +1,51 @@
+ {
+    "FirstName" : "Vishva",
+    "LastName" : "K",
+    "DOB" : "05-03-2000"
+    "Age" : 23,
+    "Gender": "Male",
+    "BloodGroup": "o+ve",
+    "MobileNo" : 963666109,
+    "Email" : "vishva@gmail.com",
+    "EmpId" : 123,
+
+    "Line1" : "Thanal",
+    "Line2" : "Thanal",
+    "CityORTown" : "Tvm",
+    "State" : "Kerala",
+    "PinCode" : 695582,
+    "Country" : "India",
+
+    "JobTitle" : "MErn Stack Developer",
+    "PositionORDesignation" : "",
+    "Department" : "CS",
+    "EmpType" : "Intern",
+    "AppDate" : "1-02-2023",
+    "Exp" : 1,
+    "HighestQualification" : "Btech",
+
+    "AdhaarNo" : 1236358,
+    "PanNo" : 5666,
+    "Religion" : "zz",
+    "Category" : "xyz",
+    "FatherName" : "abc",
+    "MotherName" : "abc",
+    "MaritalStatus" : "abc",
+    "SpouseName" : "abc",
+    "EmergContactNo" : 1555222,
+
+    "InstituteName" : "abc",
+    "JoiningDate" : "abc",
+    "RelievingDate" : "1-02-2023",
+    "Location" : "abc",
+    "RefName" : "abc",
+    "RefMobileNo" : 6266622662, 
+
+    "BankAccNo" : 55262664,
+    "BankAccName" : "abc",
+    "BankBranch" : "abc",
+    "BankIFSCCode" : "abc"
+}
+ 
+ 
+ 

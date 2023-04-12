@@ -1,0 +1,50 @@
+{
+    "Name" : "Monisha A",
+    "Gender": "Female",
+    "DOB" : "08/10/2000",
+    "AdhaarNo" : xxxxxxxx1222,
+    "MotherTongue" : "Malayalam",
+    "Category" : "Ezhava",
+    "Religion" : "Hindu",
+    "Nationality" : "India",
+    "BloodGroup" : "o+ve",
+
+    "CommAddress" : "Asha Bhavan",
+    "Landline" : 04713575538,
+    "Mobile" : 9539208109,
+    "Email" : "monishaa7000@gmail.com",
+    "PermAddress" : "Asha Bhavan",
+
+    "Qualification" : "12th",
+    "BoardORUniversity" : "CBSE",
+    "QualifiedYear" : "2018",
+    "TotalMark" : 500,
+    "Percentage" : 90,
+
+    "DocName" : "12th cert",
+    "Doc" : "...",
+
+    "FName" : "N Udayakumar",
+    "FOccupation" : "FCI DPS Worker",
+    "FCommAddress" : "Asha Bhavan",
+    "FPermAddress" : "Asha Bhavan",
+    "FLandline" : 04713575538,
+    "FMobile" : 9447451669,
+    "FEmail" : "udayakumarkzm@gmail.com",
+
+    "MName" : "Asha O", 
+    "MOccupation" : "House Wife",
+    "MCommAddress" : "Asha Bhavan",
+    "MPermAddress" : "Asha Bhavan",
+    "MLandline" : 04713575538,
+    "MMobile" : 9656236338,
+    "MEmail" : "ashao0242@gmail.com",
+    
+    "GName" : "N Udayakumar",
+    "GOccupation" : "FCI DPS Worker",
+    "GCommAddress" : "Asha Bhavan",
+    "GPermAddress" : "Asha Bhavan",
+    "GLandline" : 04713575538,
+    "GMobile" : 8129455797,
+    "GEmail" : "udayakumarkzm@gmail.com"
+}

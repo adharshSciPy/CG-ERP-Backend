@@ -1,0 +1,10 @@
+ {
+    "Department" : "CS",
+    "Year" : 2023,
+    "Scheme" : 2015,
+    "Semester" : "s8",
+    "SubjectName": "ES",
+    "Hours" : 2,
+    "Teacher" : "Vishva",
+ }
+ 

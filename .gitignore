@@ -1,2 +1,8 @@
 student-server/node_modules
+student-server/.env
+
 teacher-server/node_modules
+teacher-server/.env
+
+subject-server/node_modules
+subject-server/.env

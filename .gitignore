@@ -6,3 +6,9 @@ teacher-server/.env
 
 subject-server/node_modules
 subject-server/.env
+
+college-server/node_modules
+college-server/.env
+
+school-server/node_modules
+school-server/.env

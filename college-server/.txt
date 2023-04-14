@@ -1,0 +1,38 @@
+{
+    "CollegeName" : "MPS",
+    "Address" : "abc",
+    "PhoneNo" : 99999999999,
+    "Email" : "mps@gmail.com",
+    "State" : "Kerala",
+    "District" : "TVM",
+    "CityORTown" : "TVM",
+    "Board" : "CBSE",
+    "Type" : "Primary"
+}
+
+{
+    
+    "FName" : "N Udayakumar",
+    "FOccupation" : "FCI DPS Worker",
+    "FCommAddress" : "Asha Bhavan",
+    "FPermAddress" : "Asha Bhavan",
+    "FLandline" : 04713575538,
+    "FMobile" : 9447451669,
+    "FEmail" : "udayakumarkzm@gmail.com",
+
+    "MName" : "Asha O", 
+    "MOccupation" : "House Wife",
+    "MCommAddress" : "Asha Bhavan",
+    "MPermAddress" : "Asha Bhavan",
+    "MLandline" : 04713575538,
+    "MMobile" : 9656236338,
+    "MEmail" : "ashao0242@gmail.com",
+    
+    "GName" : "N Udayakumar",
+    "GOccupation" : "FCI DPS Worker",
+    "GCommAddress" : "Asha Bhavan",
+    "GPermAddress" : "Asha Bhavan",
+    "GLandline" : 04713575538,
+    "GMobile" : 8129455797,
+    "GEmail" : "udayakumarkzm@gmail.com"
+}
